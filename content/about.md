@@ -27,6 +27,8 @@ Mon travail s’organise autour de taxonomies qui structurent à la fois ma veil
 
 Ces axes me permettent de relier réflexion, pratique et production, tout en maintenant une cohérence globale dans mes contenus.
 
+![fiche](/fiche.png#mid)
+
 ## Choix du thème
 
 Pour ce travail, j’ai choisi le thème Kiera, un thème volontairement simple et sobre. Ce choix me permet de mettre l’accent sur le contenu textuel et de centrer l’intention du site sur la lecture et la compréhension, plutôt que sur le traitement visuel.
