@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://ctkix98.github.io/labveilltech/"
 
 [module]
   [module.hugoVersion]
