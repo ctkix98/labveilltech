@@ -5,7 +5,7 @@ canonifyurls = true
 theme = "hugo-kiera"
 
 [pagination]
-  pagersize = 3
+  pagersize = 5
   path = 'page'
 
 summaryLength = 30
