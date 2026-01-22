@@ -13,6 +13,8 @@ J'aimerais travailler dans le champ du **Content & Interface Design**, à l’in
 
 Ce domaine correspond à mon ikigai parce qu’il me permet d’intervenir là où je me sens la plus pertinente : entre la complexité d’un contenu et la nécessité de le rendre accessible. J’ai un intérêt particulier pour la structuration de l’information, la mise en récit et les interfaces qui guident sans surcharger. Je considère le design non comme une finalité esthétique, mais comme un outil pour comprendre, apprendre et s’orienter.
 
+![Ikigai](/Ikgai.png#mid)
+
 ## Taxonomies
 
 Mon travail s’organise autour de taxonomies qui structurent à la fois ma veille et mes projets :
